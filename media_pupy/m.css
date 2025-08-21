@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+/* img { */
+/* max-width: 100%; */
+/* height: auto; */
+/* } */
+.text {
+  /* display: none; */
+}
+.cont {
+  width: 100%;
+}
+.im3 {
+  margin: 0 auto;
+  padding: 0 5%;
+  /* width: 90%; */
+}
+/* header */
+.p1 {
+  background-color: #085070;
+  font-size: 18px;
+  text-align: center;
+  padding: 10px;
+  font-weight: 700;
+}
+/* section 1 */
+.im3 img {
+  width: 100%;
+}

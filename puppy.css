@@ -6,26 +6,26 @@
 body {
   font-size: 20px;
 }
-.cont {
+.container-wrapper {
   width: 100%;
 }
-.p2 img {
+.banner-puppies img {
   width: 100%;
 }
 .f2 {
   height: 90px;
 }
-.fh {
+.footer-head-wrap {
   background-color: #085070;
   text-align: center;
 }
-.fh h2 {
+.footer-head-wrap h2 {
   color: white;
   font-family: "Times New Roman", Times, serif;
   font-size: 24px;
   font-weight: 700;
 }
-.p1 h2 {
+.puppy-header h2 {
   padding-block: 7px;
 }
 .f2 h2 {
@@ -83,7 +83,7 @@ body {
   .im31 {
     display: flex;
     gap: 18px;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
   }
   .im312 {
     display: block;
